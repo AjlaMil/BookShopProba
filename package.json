@@ -1,0 +1,14 @@
+{
+  "name": "bookshop",
+  "version": "1.0.0",
+  "description": "Online Book Shop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Ajla",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
